@@ -17,4 +17,4 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-## Please see the README.md for how the following instructions are implemented [README.md](Getting_and_Cleaning_Data/README.md)
+## Please see the [README.md](Getting_and_Cleaning_Data/README.md) for how the following instructions are implemented.
