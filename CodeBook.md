@@ -1,5 +1,5 @@
 
-## Assignemnt week 4 Getting and Cleaning data
+## Assignment week 4 Getting and Cleaning data
 by Andrei Tintu
 
 ### Original Datasource: 
